@@ -32,15 +32,18 @@ Especialista em Engenharia de Software com **3 anos de atuação sólida** no me
 
 ---
 
+---
+
 ### 💻 Core Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,framer,threejs,java,spring,py,fastapi,postgres,mysql,redis,docker,githubactions" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,threejs,java,spring,py,fastapi,postgres,mysql,js,redis,docker,githubactions" />
   </a>
 </p>
 
 ---
+
 
 ### 📊 Engineering Analytics
 <p align="center">
