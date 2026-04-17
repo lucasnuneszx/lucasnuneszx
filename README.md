@@ -6,9 +6,10 @@
 <!-- BOTÃO DE DESTAQUE DO PORTFÓLIO DIRETO PARA VERCEL -->
 <p align="center">
   <a href="https://lucasnunesdev.vercel.app/pt" target="_blank">
-    <img src="https://img.shields.io/badge/VISIT-MY_PREMIUM_PORTFOLIO-7C3AED?style=for-the-badge&logo=rocket&logoColor=white" height="40" />
-  </a>
+   <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Initializing+Architect+Environment...;Scanning+3+Years+of+Production+Scale...;Optimizing+Full+Stack+Architecture...;Status:+Senior+Excellence+Achieved;" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=🚀+Initializing+Architect+Environment...;🔍+Scanning+3+Years+of+Production+Scale...;⚡+Optimizing+Full+Stack+Architecture...;💎+Status%3A+Senior+Excellence+Achieved;" alt="Typing SVG" />
