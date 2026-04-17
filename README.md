@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/lucasnuneszx/lucasnuneszx/main/banner.png" width="100%" alt="Lucas Nunes Banner" />
 </p>
 
-# 🏛️ Lucas Nunes | Software Architect & Tech Entrepreneur
+# 🏗️ Lucas Nunes | Software Architect & Systems Specialist
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucasnuneszx&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -11,16 +11,26 @@
 
 ---
 
-### 🚀 Visão & Impacto
-Estrategista de tecnologia focado em transformar problemas complexos em produtos digitais de alta escala. Com atuação sólida no mercado PJ, projeto arquiteturas full-stack que unem engenharia de software de ponta com foco total em ROI e experiência do usuário.
+### 🏛️ Perfil Profissional
+Especialista em Engenharia de Software com **3 anos de atuação sólida** no mercado de tecnologia. Focado no desenvolvimento de sistemas críticos, arquiteturas escaláveis e automação de processos complexos. Entrego soluções que equilibram performance técnica com as necessidades estratégicas do negócio.
 
-*   **Founder @ GestAuto**: Liderando a automação de sistemas de gestão inteligente.
-*   **Systems Architect**: Especialista em escalar backends (Python/Java) e criar interfaces memoráveis (Next.js/Three.js).
-*   **Global Mindset**: Desenvolvendo soluções de nível enterprise para parceiros no Brasil e exterior.
+- ⚙️ **Expertise**: Arquitetura de Microserviços, APIs de Alta Performance e UX Dinâmica.
+- 🛠️ **Sistemas**: Ampla experiência em plataformas de gestão (ERP/CRM) e automações comerciais.
+- 🛰️ **Stack**: Domínio avançado em Python (FastAPI), Java (Spring Boot) e Ecossistema React (Next.js/Node).
 
 ---
 
-### 🏗️ Business Stack (Tecnologias de Escala)
+### 📊 Impacto & Métricas (3+ Anos)
+| Métrica | Nível |
+| :--- | :--- |
+| **Experiência de Mercado** | 3 Anos de Atuação Profissional |
+| **Arquitetura de Sistemas** | Sênior / Especialista |
+| **Integrações de API** | 50+ Endpoints escaláveis desenvolvidos |
+| **Uptime de Projetos** | 99.9% em soluções de produção |
+
+---
+
+### 💻 Core Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -30,18 +40,18 @@ Estrategista de tecnologia focado em transformar problemas complexos em produtos
 
 ---
 
-### 🌐 Conecte-se com minha rede
+### 📩 Contato Profissional
 <p align="left">
-  <a href="https://linkedin.com/in/lucasnuneszx" target="blank">
+  <a href="https://www.linkedin.com/in/lucas-nunes-135235359/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/SEU_NUMERO" target="blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="mailto:contatolucassnuness@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Eu não escrevo apenas código, eu projeto o futuro dos negócios digitais."</i>
+  <i>"Arquitetando soluções robustas e escaláveis para desafios modernos."</i>
 </p>
