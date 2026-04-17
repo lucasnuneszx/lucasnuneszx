@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/lucasnuneszx/lucasnuneszx/main/banner.png" width="100%" alt="Lucas Nunes Banner" />
 </p>
 
-# 🏗️ Lucas Nunes | Software Architect & Systems Specialist
+# 🏗️ Lucas Nunes | Software Engineer & Systems Specialist
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucasnuneszx&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -23,8 +23,8 @@ Especialista em Engenharia de Software com **3 anos de atuação sólida** no me
 ### 📊 Impacto & Métricas (3+ Anos)
 | Métrica | Nível |
 | :--- | :--- |
-| **Experiência de Mercado** | 3 Anos de Atuação Profissional |
-| **Arquitetura de Sistemas** | Sênior / Especialista |
+| **Experiência de Mercado** | +3 Anos de Atuação Profissional |
+| **Arquitetura de Sistemas** | Pleno / Especialista |
 | **Integrações de API** | 50+ Endpoints escaláveis desenvolvidos |
 | **Uptime de Projetos** | 99.9% em soluções de produção |
 
