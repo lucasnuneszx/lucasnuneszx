@@ -1,20 +1,22 @@
-<!-- Banner Animado Profissional -->
+<!-- Banner Animado de Alta Performance -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,70:3b82f6,100:7c3aed&height=280&section=header&text=Lucas%20Nunes&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Architect%20%7C%20Systems%20Specialist&descAlignY=55&descSize=18" width="100%" />
 </p>
 
-<!-- Link de Digitação Animado -->
-# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Software+Architect;Full+Stack+Specialist;Systems+Engineering;3+Years+of+Experience" alt="Typing SVG" /></p>
+<!-- Terminal de Execução Animado: Substitui o gráfico por puro efeito de código -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=🚀+Initializing+Architect+Environment...;🔍+Scanning+3+Years+of+Production+Scale...;⚡+Optimizing+Full+Stack+Architecture...;💎+Status%3A+Senior+Excellence+Achieved;" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <!-- Streak Card (Suas 322 contribuições) -->
+  <!-- Streak Card: Sincronização em tempo real das 322 contribuições -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasnuneszx&theme=tokyonight&hide_border=true&cache=true" alt="GitHub Streak" />
 </p>
 
-<br />
+---
 
 ### 🏛️ Professional Profile
-Especialista em Engenharia de Software com **3 anos de atuação sólida** no mercado. Focado no desenvolvimento de sistemas críticos, arquiteturas escaláveis e automação de processos complexos. Entrego soluções que equilibram performance técnica com as necessidades estratégicas do negócio.
+Especialista em Engenharia de Software com **3 anos de atuação sólida**. Projetando sistemas críticos e arquiteturas escaláveis que unem performance técnica com visão estratégica de negócio.
 
 ---
 
@@ -36,7 +38,7 @@ Especialista em Engenharia de Software com **3 anos de atuação sólida** no me
 
 ---
 
-### 📉 Activity & Languages
+### 📉 Languages & Technical Domain
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnuneszx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
