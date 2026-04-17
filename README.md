@@ -1,10 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lucasnuneszx/lucasnuneszx/main/banner.png" width="100%" alt="Lucas Nunes Banner" />
-</p>
-
-# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Software+Architect;Systems+Specialist;Full+Stack+Developer;Building+Scalable+Solutions" alt="Typing SVG" /></p>
-
-<p align="center">
   <!-- Streak Card: Único e com foco total nas suas 322 contribuições -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasnuneszx&theme=tokyonight&hide_border=true&cache=true" alt="GitHub Streak" />
 </p>
