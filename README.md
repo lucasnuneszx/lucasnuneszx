@@ -1,12 +1,20 @@
+<!-- Banner Animado com Ondas e Partículas -->
 <p align="center">
-  <!-- Streak Card: Único e com foco total nas suas 322 contribuições -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,70:3b82f6,100:7c3aed&height=300&section=header&text=Lucas%20Nunes&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Software%20Architect%20%7C%20Full%20Stack%20Systems&descAlignY=55&descSize=20" width="100%" />
+</p>
+
+<!-- Título com Efeito de Digitação Humana -->
+# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Software+Architect;Systems+Specialist;Building+Scalable+Solutions;3+Years+of+Tech+Excellence" alt="Typing SVG" /></p>
+
+<p align="center">
+  <!-- Streak Card com Foco total na sua consistência -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasnuneszx&theme=tokyonight&hide_border=true&cache=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🏛️ Professional Profile
-Especialista em Engenharia de Software com **3 anos de atuação sólida** no mercado. Focado no desenvolvimento de sistemas críticos, arquiteturas escaláveis e automação de processos complexos. Entrego soluções que equilibram performance técnica com as necessidades estratégicas do negócio.
+Especialista em Engenharia de Software com **3 anos de atuação sólida**. Focado no desenvolvimento de sistemas críticos, arquiteturas escaláveis e automação de processos. Unindo performance técnica com visão de negócio.
 
 ---
 
@@ -28,9 +36,16 @@ Especialista em Engenharia de Software com **3 anos de atuação sólida** no me
 
 ---
 
-### 📈 Activity & Languages
+### 📉 Activity & Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnuneszx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+
+### 🐍 Contribution Snake (O Jogo da Cobrinha dos seus Commits)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasnuneszx&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
