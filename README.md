@@ -1,20 +1,20 @@
-<!-- Banner Animado com Ondas e Partículas -->
+<!-- Banner Animado Profissional (Minimalismo & Movimento) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,70:3b82f6,100:7c3aed&height=300&section=header&text=Lucas%20Nunes&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Software%20Architect%20%7C%20Full%20Stack%20Systems&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,70:3b82f6,100:7c3aed&height=280&section=header&text=Lucas%20Nunes&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Architect%20%7C%20Systems%20Specialist&descAlignY=55&descSize=18" width="100%" />
 </p>
 
-<!-- Título com Efeito de Digitação Humana -->
-# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Software+Architect;Systems+Specialist;Building+Scalable+Solutions;3+Years+of+Tech+Excellence" alt="Typing SVG" /></p>
+<!-- Cargo Dinâmico (Efeito Profissional de Digitação) -->
+# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Software+Architect;Full+Stack+Specialist;Systems+Engineering;3+Years+of+Experience" alt="Typing SVG" /></p>
 
 <p align="center">
-  <!-- Streak Card com Foco total na sua consistência -->
+  <!-- Streak Card: Foco na consistência produtiva -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasnuneszx&theme=tokyonight&hide_border=true&cache=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🏛️ Professional Profile
-Especialista em Engenharia de Software com **3 anos de atuação sólida**. Focado no desenvolvimento de sistemas críticos, arquiteturas escaláveis e automação de processos. Unindo performance técnica com visão de negócio.
+Especialista em Engenharia de Software com **3 anos de experiência sólida**. Focado no desenvolvimento de sistemas críticos, arquiteturas escaláveis e automação. Unindo excelência técnica com visão estratégica de produto.
 
 ---
 
@@ -36,15 +36,9 @@ Especialista em Engenharia de Software com **3 anos de atuação sólida**. Foca
 
 ---
 
-### 📉 Activity & Languages
+### 💹 Activity Analytics (Professional Timeline)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnuneszx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
-### 🐍 Contribution Snake (O Jogo da Cobrinha dos seus Commits)
-<p align="center">
+  <!-- Gráfico de atividade limpo e animado (Estilo Financeiro/SaaS) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasnuneszx&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </p>
 
