@@ -1,3 +1,20 @@
+### 📊 Performance & Engenharia
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lucasnuneszx&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
+</p>
+
+<p align="center">
+  <!-- Card de Stats sem o Rank "C" e com tema Premium -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasnuneszx&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
+  <!-- Card de Streak para mostrar consistência -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasnuneszx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnuneszx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/lucasnuneszx/lucasnuneszx/main/banner.png" width="100%" alt="Lucas Nunes Banner" />
 </p>
