@@ -18,7 +18,7 @@
 <br />
 
 ### 🏛️ Professional Profile
-Especialista em Engenharia de Software com **3 anos de trajetória consolidada** no desenvolvimento de ecossistemas digitais de alto impacto. Minha atuação é pautada na criação de arquiteturas Full Stack robustas, projetadas para sustentar operações críticas e fluxos de dados complexos com máxima performance e segurança.
+Estudante de Engenharia de Software com **3 anos de trajetória consolidada** no desenvolvimento de ecossistemas digitais de alto impacto. Minha atuação é pautada na criação de arquiteturas Full Stack robustas, projetadas para sustentar operações críticas e fluxos de dados complexos com máxima performance e segurança.
 
 Ao longo da minha jornada profissional, entreguei **mais de 10 sistemas de nível enterprise** (ERPs, CRMs e Automações), unindo a precisão da engenharia de backend (Java/Python) com interfaces cinematográficas e intuitivas. Meu foco central é traduzir desafios técnicos em soluções de negócio escaláveis, garantindo que cada linha de código contribua diretamente para o crescimento e a eficiência operacional dos produtos que projeto.
 
