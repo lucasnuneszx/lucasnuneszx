@@ -5,7 +5,7 @@
 # 🏛️ Lucas Nunes | Software Architect & Systems Specialist
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasnuneszx&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&cache=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasnuneszx&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&hide=prs,issues,contribs&cache=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasnuneszx&theme=tokyonight&hide_border=true&cache=true" alt="GitHub Streak" />
 </p>
 
@@ -64,4 +64,3 @@ Especialista em Engenharia de Software com **3 anos de atuação sólida** no me
 <p align="center">
   <i>"Arquitetando soluções robustas e escaláveis para desafios modernos."</i>
 </p>
-
